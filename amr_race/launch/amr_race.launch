@@ -1,0 +1,6 @@
+<launch>
+	<node name="xupacaaso_kinePubRace" 	pkg="amr_race" 		type="xupacaaso_kinePubRace" 	output="screen"/>
+	<node name="xupacaaso_carrotRace" 	pkg="amr_race" 		type="xupacaaso_carrotRace" 	/>
+	<node name="xupacaaso_obstacleRace" pkg="amr_race" 		type="xupacaaso_obstacleRace" 	/>
+	<node name="xupacaaso_filterRace" 	pkg="amr_race" 		type="xupacaaso_filterRace" 	/>
+</launch>

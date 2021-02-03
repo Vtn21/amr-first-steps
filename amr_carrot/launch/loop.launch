@@ -1,0 +1,4 @@
+<launch>
+	<node name="carrot_loop" pkg="carrot_chasing" type="loop" /> 
+	<node name="kine" pkg="kine_controller" type="control_key" />
+</launch>
