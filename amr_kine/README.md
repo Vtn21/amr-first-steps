@@ -1,1 +1,1 @@
-Bem-vindo ao Summer AMR 2016
+Kinematic controller for two-wheeled mobile robot (use AMR v-rep scene).
